@@ -2,17 +2,17 @@ const heart = document.getElementById("heart");
 const music = document.getElementById("music");
 
 const images = [
-  "images/shery1.jpg",
-  "images/shery2.jpg",
-  "images/shery3.jpg",
-  "images/shery4.jpg",
-  "images/shery5.jpg",
-  "images/shery6.jpg",
-  "images/shery14.jpg",
-  "images/shery8.jpg",
-  "images/shery9.jpg",
-  "images/shery10.jpg",
-  "images/shery11.jpg",
+  "/shery1.jpg",
+  "/shery2.jpg",
+  "/shery3.jpg",
+  "/shery4.jpg",
+  "/shery5.jpg",
+  "/shery6.jpg",
+  "/shery14.jpg",
+  "/shery8.jpg",
+  "/shery9.jpg",
+  "/shery10.jpg",
+  "/shery11.jpg",
 ];
 
 
